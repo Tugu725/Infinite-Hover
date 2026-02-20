@@ -1,2 +1,2 @@
 # Hover
-Last as long as you can!
+Last as long as you can.
